@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+
+@import 'common/global';
+@import 'common/grid';
+@import 'common/forms';
+
+@tailwind utilities;
